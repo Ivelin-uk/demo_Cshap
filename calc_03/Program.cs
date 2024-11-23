@@ -1,3 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//string name = "Ivan";
+//Console.WriteLine(name);
+//string numberOne = "10";
+//string numberTwo = "10";
+//string sum = numberOne + numberTwo;
+//Console.WriteLine(sum);
 
-Console.WriteLine("Hello, World!");
+//string firstName = "Ivelin";
+//string lastName = "Mihaylov";
+//string fullName = firstName + " " + lastName;
+//Console.WriteLine(fullName);
+
+

@@ -1,9 +1,11 @@
-﻿Console.WriteLine("Enter number one: ");
-int numberOne = int.Parse(Console.ReadLine());
-
-Console.WriteLine("Enter number two: ");
-int numberTwo = int.Parse(Console.ReadLine());
-int sum = numberOne + numberTwo;
-
-Console.WriteLine("The sum is: ");
-Console.WriteLine(sum);
+﻿int a = 10;
+Console.WriteLine(a);
+a = a + 5;
+Console.WriteLine(a);
+a += 5;
+Console.WriteLine(a);
+a -= 10;
+Console.WriteLine(a);
+a *= 2;
+a /= 2;
+Console.WriteLine(a);

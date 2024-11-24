@@ -1,4 +1,9 @@
-﻿namespace loop_08
+﻿/*
+    Да се напише програма, която отпечатва
+    буквите от латинската азбука от a до z 
+*/
+
+namespace loop_08
 {
     public class Program
     {

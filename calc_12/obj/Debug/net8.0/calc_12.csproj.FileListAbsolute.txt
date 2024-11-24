@@ -1,0 +1,15 @@
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/bin/Debug/net8.0/calc_12
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/bin/Debug/net8.0/calc_12.deps.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/bin/Debug/net8.0/calc_12.runtimeconfig.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/bin/Debug/net8.0/calc_12.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/bin/Debug/net8.0/calc_12.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.AssemblyInfoInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.AssemblyInfo.cs
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.csproj.CoreCompileInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.sourcelink.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/refint/calc_12.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/calc_12.genruntimeconfig.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/calc_12/obj/Debug/net8.0/ref/calc_12.dll

@@ -1,4 +1,8 @@
-﻿namespace loop_10
+﻿/*
+ Да се напише програма, която въвежда n числа и
+ намира най-голямото измежду тях
+ */
+namespace loop_10
 {
     public class Program
     {

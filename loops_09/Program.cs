@@ -1,4 +1,8 @@
-﻿namespace loop_09
+﻿/*
+ * Да се напише програма, която въвежда n числа и ги сумира
+ */
+
+namespace loop_09
 {
     public class Program
     {

@@ -1,0 +1,15 @@
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/bin/Debug/net8.0/loops_19
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/bin/Debug/net8.0/loops_19.deps.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/bin/Debug/net8.0/loops_19.runtimeconfig.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/bin/Debug/net8.0/loops_19.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/bin/Debug/net8.0/loops_19.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.AssemblyInfoInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.AssemblyInfo.cs
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.csproj.CoreCompileInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.sourcelink.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/refint/loops_19.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/loops_19.genruntimeconfig.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/modul_01/loops_19/obj/Debug/net8.0/ref/loops_19.dll
